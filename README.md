@@ -1,5 +1,6 @@
 # SDN-Intrusion-and-Anomaly-Detection
-Project Title: SDN Intrusion and Anomaly Detection Using Machine Learning
+SDN Intrusion and Anomaly Detection Using Machine Learning
+
 Description:
 This project implements an intrusion and anomaly detection system for Software-Defined Networks (SDN) using machine learning techniques. SDN, being a dynamic and programmable network architecture, requires robust security mechanisms to detect and prevent potential attacks.
 
